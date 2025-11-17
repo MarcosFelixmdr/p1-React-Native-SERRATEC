@@ -24,12 +24,12 @@ export const App = () => {
     <Text style={styles.textBlue}>Sobre a conta da Sony</Text>
     <Text style={styles.textBlue}>Problemas ao iniciar uma sessão?</Text>
     <Text style={styles.textAjuda}>Ajuda/Mapa do site</Text>
-    <LinearGradient
+    {/* <LinearGradient
       colors={['transparent', 'rgba(255,255,255,0.1)']}
       start={{ x: 0, y: 0 }}
       end={{ x: 1, y: 0 }}
       style={styles.gradient}
-    />
+    /> */}
   </View>
 };
 

@@ -40,6 +40,7 @@ export const styles = StyleSheet.create({
     marginTop: 30,
     borderRadius: 10,
     borderColor: "#fff",
+    borderWidth: 1,
     width: 350,
   },
   button: {
@@ -67,11 +68,11 @@ export const styles = StyleSheet.create({
     color: "#1581fdff",
     top: 230,
   },
-//   gradient: {
-//     position: "absolute",
-//     top: 0,
-//     right: 0,
-//     width: "100%",
-//     height: "100%",
-//   },
+  // gradient: {
+  //   position: "absolute",
+  //   top: 0,
+  //   right: 0,
+  //   width: "100%",
+  //   height: "100%",
+  // },
 });
